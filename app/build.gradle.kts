@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.coffeeclassifier"
+    namespace = "com.bangkit.coffeeclassifier"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.example.coffeeclassifier"
+        applicationId = "com.bangkit.coffeeclassifier"
         minSdk = 24
         targetSdk = 34
         versionCode = 1
