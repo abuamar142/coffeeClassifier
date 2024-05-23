@@ -1,4 +1,4 @@
-package com.bangkit.coffeeclassifier
+package com.bangkit.kopintar
 
 import org.junit.Test
 

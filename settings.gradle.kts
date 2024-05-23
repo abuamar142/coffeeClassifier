@@ -19,5 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Coffee Classifier"
+rootProject.name = "KoPintar"
 include(":app")
